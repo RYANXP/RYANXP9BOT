@@ -9,7 +9,7 @@
 Manda !help ou !menu apos  escanear o qr
 
 ```bash
-> cd RYANXPBOT
+> cd RYANXP
 > bash install.sh
 ```
 
